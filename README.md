@@ -2,7 +2,7 @@
 - 👀 I’m interested in java development
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: gumba2137 on discord.
+- 📫 How to reach me: _gumbaa on discord.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Car brand "Lexus" means Luxurious car EXported to United States
 

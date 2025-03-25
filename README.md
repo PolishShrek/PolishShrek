@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PolishShrek
-- 👀 I’m interested in java development
-- 🌱 I’m currently learning java
+- 👀 I’m interested in game engine development in c++
+- 🌱 I’m currently learning GUI in c++
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: _gumbaa on discord.
 - 😄 Pronouns: he/him
